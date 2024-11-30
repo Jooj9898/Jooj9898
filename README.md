@@ -3,8 +3,6 @@
 🖥️2nd year Computer Science student at Techonological University Dublin <br>
 📧Email: C23421344@mytudublin.ie
 
-
-
 # 💻 Tech Stack:
 
 <div style="display: flex; align-items: center; gap: 14px;">
