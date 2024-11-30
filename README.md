@@ -1,8 +1,8 @@
-## Hello
 
-
-# 💫 About Me:
+#  About Justin:
 🖥️2nd year Computer Science student at Techonological University Dublin
+📧Email: [C23421344@mytudublin.ie] (
+
 
 
 # 💻 Tech Stack:
