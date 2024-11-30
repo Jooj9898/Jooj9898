@@ -2,7 +2,7 @@
 #  About Justin:
 🖥️2nd year Computer Science student at Techonological University Dublin <br>
 📧Email: C23421344@mytudublin.ie <br>
-💼LinkedIn: [LinkedIn Profile] (https://www.linkedin.com/in/justin-mcgarr-8a277b32b/)
+💼LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/justin-mcgarr-8a277b32b/)
 
 # 💻 Tech Stack:
 
