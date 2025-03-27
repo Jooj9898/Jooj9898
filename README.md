@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jooj9898&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jooj9898&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&token=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)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jooj9898&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&token=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&cache_seconds=1800)
 
 
 ---
